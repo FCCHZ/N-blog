@@ -2,7 +2,7 @@
 
 使用 Express + MongoDB 搭建多人博客
 
-使用npm i命令安装依赖模块
+使用npm i命令安装依赖模块<br>
 使用 supervisor --harmony index 启动程序
 
 ## 开发环境
